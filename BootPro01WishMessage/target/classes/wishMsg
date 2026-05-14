@@ -1,0 +1,4 @@
+Task 1 – Morning Wish Generator Scenario: Build a Spring Boot application that prints "Good
+Morning!" when it runs. Requirements: - Create Spring Boot project (Maven) - Create class
+WishMessageService - Method generateWish() returns "Good Morning!" - Call method from main
+class and print output
