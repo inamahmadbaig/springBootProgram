@@ -1,0 +1,2 @@
+Task 2 – Time-Based Wish Generator Scenario: Print wish message based on time of day.
+Requirements: - Create WishService class - Method getWishMessage() - Morning → Good Morning- Afternoon → Good Afternoon - Evening → Good Evening - Print message in main class
